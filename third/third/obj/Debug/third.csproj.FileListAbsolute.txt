@@ -1,0 +1,5 @@
+C:\Users\pinkdonut\RiderProjects\third\third\bin\Debug\third.exe
+C:\Users\pinkdonut\RiderProjects\third\third\bin\Debug\third.pdb
+C:\Users\pinkdonut\RiderProjects\third\third\obj\Debug\third.csprojResolveAssemblyReference.cache
+C:\Users\pinkdonut\RiderProjects\third\third\obj\Debug\third.exe
+C:\Users\pinkdonut\RiderProjects\third\third\obj\Debug\third.pdb
